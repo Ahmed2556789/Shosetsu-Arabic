@@ -1,5 +1,11 @@
 {
-  "libraries": [],
+  
+  "libraries": [
+  {
+    "name": "Madara",
+    "version": "2.9.2"
+  }
+],
   "scripts": [
     {
       "name": "Cenele",
