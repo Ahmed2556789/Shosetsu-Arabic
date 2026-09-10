@@ -1,0 +1,16 @@
+{
+  "libraries": [],
+  "scripts": [
+    {
+      "name": "Cenele",
+      "fileName": "Cenele",
+      "imageURL": "https://cenele.com/wp-content/uploads/2023/01/cropped-logo.png",
+      "id": 4510,
+      "lang": "ara",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ],
+  "styles": []
+}
